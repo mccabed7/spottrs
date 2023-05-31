@@ -8,33 +8,33 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Spottrs
-build_property.ProjectDir = C:\Users\decla\Desktop\spottrs\Spottrs\Spottrs\
+build_property.ProjectDir = C:\Users\decla\Desktop\Gym app project\spottrs\Spottrs\Spottrs\
 
-[C:/Users/decla/Desktop/spottrs/Spottrs/Spottrs/App.xaml]
+[C:/Users/decla/Desktop/Gym app project/spottrs/Spottrs/Spottrs/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Spottrs.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/decla/Desktop/spottrs/Spottrs/Spottrs/AppShell.xaml]
+[C:/Users/decla/Desktop/Gym app project/spottrs/Spottrs/Spottrs/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Spottrs.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/decla/Desktop/spottrs/Spottrs/Spottrs/MainPage.xaml]
+[C:/Users/decla/Desktop/Gym app project/spottrs/Spottrs/Spottrs/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Spottrs.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/decla/Desktop/spottrs/Spottrs/Spottrs/Resources/Styles/Colors.xaml]
+[C:/Users/decla/Desktop/Gym app project/spottrs/Spottrs/Spottrs/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Spottrs.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/decla/Desktop/spottrs/Spottrs/Spottrs/Resources/Styles/Styles.xaml]
+[C:/Users/decla/Desktop/Gym app project/spottrs/Spottrs/Spottrs/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Spottrs.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml

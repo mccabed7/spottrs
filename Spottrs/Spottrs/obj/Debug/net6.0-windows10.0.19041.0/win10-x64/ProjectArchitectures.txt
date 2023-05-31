@@ -1,1 +1,1 @@
-C:\Users\decla\Desktop\spottrs\Spottrs\Spottrs\Spottrs.csproj;x64
+C:\Users\decla\Desktop\Gym app project\spottrs\Spottrs\Spottrs\Spottrs.csproj;x64

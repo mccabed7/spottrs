@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\decla\\Desktop\\spottrs\\Spottrs\\Spottrs\\Spottrs.csproj": {}
+    "C:\\Users\\decla\\Desktop\\Gym app project\\spottrs\\Spottrs\\Spottrs\\Spottrs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\decla\\Desktop\\spottrs\\Spottrs\\Spottrs\\Spottrs.csproj": {
+    "C:\\Users\\decla\\Desktop\\Gym app project\\spottrs\\Spottrs\\Spottrs\\Spottrs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\decla\\Desktop\\spottrs\\Spottrs\\Spottrs\\Spottrs.csproj",
+        "projectUniqueName": "C:\\Users\\decla\\Desktop\\Gym app project\\spottrs\\Spottrs\\Spottrs\\Spottrs.csproj",
         "projectName": "Spottrs",
-        "projectPath": "C:\\Users\\decla\\Desktop\\spottrs\\Spottrs\\Spottrs\\Spottrs.csproj",
+        "projectPath": "C:\\Users\\decla\\Desktop\\Gym app project\\spottrs\\Spottrs\\Spottrs\\Spottrs.csproj",
         "packagesPath": "C:\\Users\\decla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\decla\\Desktop\\spottrs\\Spottrs\\Spottrs\\obj\\",
+        "outputPath": "C:\\Users\\decla\\Desktop\\Gym app project\\spottrs\\Spottrs\\Spottrs\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -70,6 +70,10 @@
               "target": "Package",
               "version": "[6.0.548, )",
               "autoReferenced": true
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
             }
           },
           "imports": [
@@ -177,6 +181,10 @@
               "target": "Package",
               "version": "[6.0.1, )",
               "autoReferenced": true
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
             }
           },
           "imports": [
@@ -260,6 +268,10 @@
               "target": "Package",
               "version": "[6.0.1, )",
               "autoReferenced": true
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
             }
           },
           "imports": [
@@ -345,6 +357,10 @@
               "target": "Package",
               "version": "[10.0.22000.194, )",
               "autoReferenced": true
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
             }
           },
           "imports": [
