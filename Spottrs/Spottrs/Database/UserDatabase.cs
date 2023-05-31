@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using SQLite;
+﻿using SQLite;
 
 namespace Spottrs.Database
 {
@@ -12,5 +7,15 @@ namespace Spottrs.Database
         string databasePath;
         private SQLiteConnection connection;
 
+        public UserDatabase(string databasePath)
+        {
+            this.databasePath = databasePath;
+        }
+
+        public void Init()
+        {
+            connection = new SQLiteConnection(databasePath);
+            //connection.CreateTable<>();   cannot continue until class UserAccount is finished
+        }
     }
 }
